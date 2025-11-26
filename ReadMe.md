@@ -33,6 +33,11 @@ I build scalable, high-performance applications end-to-end — from backend syst
 - Clear communication and collaborative development mindset
 - Ability to quickly **learn, adapt, and deliver**
 
+## 📫 Connect With Me
+
+- 🧑‍💻 [GitHub](https://github.com/shinycrow401)
+- ✉️ **shiny.crow401@outlook.com**
+
 ---
 
 ## 📈 **Sample Workflow**
@@ -42,3 +47,4 @@ A[Design & Architecture] --> B[Backend Logic & APIs]
 B --> C[Frontend Integration]
 C --> D[Testing & Optimization]
 D --> E[Deploy & Monitor]
+
