@@ -1,6 +1,6 @@
 # 👋 Hello Everyone!!!
 
-**Full Stack Developer | Golang | .NET / C# | MERN Stack | DevOps**
+**Full Stack Developer | Python | Golang | .NET / C# | MERN Stack | DevOps**
 
 I build scalable, high-performance applications end-to-end — from backend system architecture to polished, responsive UIs. I enjoy solving complex problems, improving system performance, and crafting clean, maintainable code.
 
@@ -10,11 +10,11 @@ I build scalable, high-performance applications end-to-end — from backend syst
 
 | Category | Technologies |
 |--------|-------------|
-| **Backend** | Golang, .NET, C#, Node.js, Express.js |
-| **Frontend** | React.js, Next.js, Redux, Tailwind, HTML/CSS |
-| **Databases** | PostgreSQL, MySQL, MongoDB, SQL Server, Redis |
+| **Backend** | Python(Django, FastAPI, Flask), Golang, .NET, C#, Node.js, Express.js |
+| **Frontend** | React.js, Next.js, Vue, Angular, ASP.NET, jQuery, Redux, Tailwind, HTML/CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQL Server, Redis, Firebase, Supabase |
 | **Cloud / DevOps** | Docker, Kubernetes, AWS / Azure, CI/CD pipelines |
-| **Other** | REST APIs, Microservices, WebSockets, gRPC, Message Queues |
+| **Other** | REST APIs, GraphQL, Microservices, WebSockets, gRPC, Message Queues |
 
 ---
 
@@ -47,4 +47,5 @@ A[Design & Architecture] --> B[Backend Logic & APIs]
 B --> C[Frontend Integration]
 C --> D[Testing & Optimization]
 D --> E[Deploy & Monitor]
+
 
